@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsMyT", "WindowsFormsMyT\WindowsFormsMyT.csproj", "{A1FCC8ED-CBB3-42DD-93AE-B40ABAAC768E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel", "Excel\Excel.csproj", "{4BCAE8C8-3202-4A12-862B-871AAC0F0C01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.csproj", "{E04AAA0F-38F2-447C-A2E5-EF1A221DCB33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1FCC8ED-CBB3-42DD-93AE-B40ABAAC768E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1FCC8ED-CBB3-42DD-93AE-B40ABAAC768E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1FCC8ED-CBB3-42DD-93AE-B40ABAAC768E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1FCC8ED-CBB3-42DD-93AE-B40ABAAC768E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BCAE8C8-3202-4A12-862B-871AAC0F0C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BCAE8C8-3202-4A12-862B-871AAC0F0C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BCAE8C8-3202-4A12-862B-871AAC0F0C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BCAE8C8-3202-4A12-862B-871AAC0F0C01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E04AAA0F-38F2-447C-A2E5-EF1A221DCB33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04AAA0F-38F2-447C-A2E5-EF1A221DCB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04AAA0F-38F2-447C-A2E5-EF1A221DCB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04AAA0F-38F2-447C-A2E5-EF1A221DCB33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23FD5AE8-B8C1-4D66-A6B3-C177A6E5455E}
+	EndGlobalSection
+EndGlobal
