@@ -20,7 +20,7 @@ using System.Text;
 namespace WindowsFormsMyT
 {
     /// <summary>
-    /// 
+    ///    ww
     /// </summary>
     //您无法为类级别的泛型参数提供方法级别的约束。类级别泛型参数的所有约束都必须在类作用范围中定义
         public class MyClass1<T> where T : IComparable<T> 
